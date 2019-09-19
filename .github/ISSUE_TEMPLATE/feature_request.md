@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: https://forward3d.atlassian.net/browse/F3D-
 labels: ''
 assignees: ''
 
